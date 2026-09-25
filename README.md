@@ -1,5 +1,7 @@
 # SentimentFlow
 
+<img width="925" height="594" alt="SentimentFlow Cover Image" src="https://github.com/user-attachments/assets/e1cbd28f-879c-4cce-ba10-8a56dc320bfc" />
+
 A full-stack sentiment analysis web application that classifies text as **positive**, **negative**, or **neutral** using a machine learning model, with results stored and browsable through a history view.
 
 
